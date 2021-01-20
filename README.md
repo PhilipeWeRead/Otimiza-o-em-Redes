@@ -1,4 +1,4 @@
-# Otimiza-o-em-Redes
+# otimizacaoEmRedes
 A escolha da área defendida a cada recursão é gulosa: pega-se sempre a maior.
 Poderia, por exemplo, existir uma solução melhor em que uma área menor é escolhida na
 primeira tentativa, e, na próxima recursão, outra área menor é escolhida como parte da solução,
